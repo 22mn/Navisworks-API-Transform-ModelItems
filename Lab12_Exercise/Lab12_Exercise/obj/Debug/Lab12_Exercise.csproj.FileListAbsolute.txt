@@ -1,0 +1,13 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise_MarkupCompile.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\UserControl1.g.cs
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise_MarkupCompile.lref
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\bin\Debug\Lab12_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\bin\Debug\Lab12_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\UserControl1.baml
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.g.resources
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.Resource.resources
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.csproj.GenerateResource.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab12_Exercise\Lab12_Exercise\obj\Debug\Lab12_Exercise.pdb
