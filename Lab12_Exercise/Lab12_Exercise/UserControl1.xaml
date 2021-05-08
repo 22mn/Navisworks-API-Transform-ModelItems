@@ -1,0 +1,28 @@
+﻿<Window x:Class="Lab12_Exercise.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Lab12_Exercise"
+             mc:Ignorable="d" Height="320" Width="300" WindowStartupLocation="CenterScreen">
+    <Grid Margin="5">
+        <StackPanel>
+            <Image Source="pack://application:,,,/Lab12_Exercise;component/Resources/Axes.png"
+                   Width="180" Height="150" Margin="5"/>
+            <StackPanel Orientation="Horizontal" Margin="5" Name="rpanel">
+                <RadioButton Content="X" GroupName="axis" Margin="50,0,0,0"/>
+                <RadioButton Content="Z" GroupName="axis" Margin="50,0,0,0"/>
+                <RadioButton Content="Y" GroupName="axis" Margin="50,0,0,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                <TextBlock Text=" Transform Value :  " Margin="53,0,0,0"/>
+                <TextBox  Width="75" Name="tvalue"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                <Button Content="Close" Width="75" Height="20" Margin="53,0,0,0" Click="Close_Click"/>
+                <Button Content="OK" Width="75" Height="20" Click="Ok_Click" Margin="30,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
